@@ -10,7 +10,8 @@
 
 > Veja abaixo uma imagem de demonstração da landing page:
 
-![Screenshot](https://link-da-screenshot-ou-gif-aqui)
+![Uploading {DE9B7148-1179-45F0-A7D9-30A5543D1D4A}.png…]()
+
 
 ---
 
