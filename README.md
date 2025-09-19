@@ -8,6 +8,8 @@
 
 ## 📸 Prévia do Projeto
 
+> URL do site: https://espacogreenvalley.netlify.app/
+
 > Veja abaixo uma imagem de demonstração da landing page:
 
 <img width="1899" height="938" alt="{DE9B7148-1179-45F0-A7D9-30A5543D1D4A}" src="https://github.com/user-attachments/assets/86180016-b932-458d-96fb-496ec28bc7c9" />
